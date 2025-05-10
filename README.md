@@ -1,3 +1,11 @@
+## Structure
+
+- data/: data loaders etc.
+- log/: checkpoints, runtime logs etc.
+- config/: execution configurations
+- model/: model definitions
+- util/: scheduler, spectrogram extractor, etc.
+
 ## Prepare
 
 ```
