@@ -23,19 +23,19 @@ Dataset should be put in parent folder of current project folder, you should hav
 1. BEATs (SSL\*)
 
 ```
-python main.py --fit --config config/beats_ssl_star.yaml
+python main.py fit --config config/beats_ssl_star.yaml
 ```
 
 2. BEATs (SSL)
 
 ```
-python main.py --fit --config config/beats_ssl.yaml
+python main.py fit --config config/beats_ssl.yaml
 ```
 
 3. BEATs (SSL+SL)
 
 ```
-python main.py --fit --config config/beats_ssl+sl.yaml
+python main.py fit --config config/beats_ssl+sl.yaml
 ```
 
 4. Testing
